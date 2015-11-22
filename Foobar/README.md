@@ -24,6 +24,8 @@ crypto      | security and cryptography
 
 I did a handful of problems, then got busy with work and other projects. To my own dismay, I learned that Google locks you out of new challenges when you go a few weeks without solving one.
 
+These programs are more useful for viewing vs. running (unless you have the driver program Google uses to run the functions specified).
+
 ## Structure
 
 Each top-level directory corresponds to a level with a second-level directory for each problem at that level.
