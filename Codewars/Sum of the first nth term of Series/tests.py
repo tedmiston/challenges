@@ -2,6 +2,7 @@ import unittest
 
 from solution import series_sum
 
+
 class TestSeriesSum(unittest.TestCase):
 
     def test_n_0(self):
