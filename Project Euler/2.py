@@ -37,10 +37,10 @@ def main():
     MAX_VALUE = 4000000
 
     result = []
-    i = STARTING_TERM
-    while fib(i) <= MAX_VALUE:
-        result.append(fib(i))
-        i += 1
+    term = STARTING_TERM
+    while fib(term) <= MAX_VALUE:
+        result.append(fib(term))
+        term += 1
 
     evens = [i for i in result if even(i)]
     print sum(evens)
