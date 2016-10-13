@@ -1,6 +1,6 @@
 # Challenges
 
-[![Code Health](https://landscape.io/github/tedmiston/challenges/master/landscape.svg?style=flat)](https://landscape.io/github/tedmiston/challenges/master)
+[![Code Health](https://landscape.io/github/tedmiston/challenges/master/landscape.svg?style=flat)](https://landscape.io/github/tedmiston/challenges/master) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f97d41838ac14875b60c7529ed68e630)](https://www.codacy.com/app/tedmiston/challenges?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tedmiston/challenges&amp;utm_campaign=Badge_Grade)
 
 My solutions to programming puzzles & challenges.
 
