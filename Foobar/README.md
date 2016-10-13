@@ -8,7 +8,7 @@ Foobar is [an invite-only program](https://news.ycombinator.com/item?id=8588080)
 
 Each puzzle has three attributes: a level, a time limit, and a tag.
 
-The levels range from 1 to 5.  I completed levels 1-2, and started on level 3.
+The levels range from 1 to 5.  I completed levels 1–2, and started on level 3.
 
 The time limit starts short and increases generously by level.
 
