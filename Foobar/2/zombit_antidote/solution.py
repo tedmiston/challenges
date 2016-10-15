@@ -10,7 +10,7 @@ def answer(meetings):
     Assumes the length of time in a day is 1,000,000 of whatever arbitrary
     unit of time is implied by this problem.
     """
-    sorted_meetings = sorted(meetings, key=lambda (start, finish): finish)
+    sorted_meetings = sorted(meetings, key=lambda i: i[1])
 
     scheduled_jobs = 0
     last_finish = 0
