@@ -29,7 +29,7 @@ Alternatively, some problems ([example](/HackerRank/Zipped!)) include a one-line
 ./run.sh
 ```
 
-Newer solutions are written in Python 3 while a few older ones are in Python 2 and will be converted at some point.
+All solutions are written in Python 3 unless otherwise stated.
 
 ## Testing
 
