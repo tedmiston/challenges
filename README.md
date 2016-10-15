@@ -23,7 +23,13 @@ Just browse for a problem of interest.  Most can be run from the problem's direc
 python solution.py
 ```
 
-Newer ones are written in Python 3 while a few older ones are in Python 2 and will be converted at some point.
+Alternatively, some problems ([example](/HackerRank/Zipped!)) include a one-line bash script to run the solution with sample required input values:
+
+```bash
+./run.sh
+```
+
+Newer solutions are written in Python 3 while a few older ones are in Python 2 and will be converted at some point.
 
 ## Testing
 
