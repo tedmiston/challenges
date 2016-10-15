@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 solution.py < in.txt
+python solution.py < in.txt
