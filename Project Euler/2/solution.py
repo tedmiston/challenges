@@ -1,7 +1,8 @@
 """
 Sum the even-valued terms in the Fibnonnaci sequence over (1, 4000000).
 
-The trick here is definitely memoization to avoid blowing up the stack with recursive calls.
+The trick here is definitely memoization to avoid blowing up the stack with
+recursive calls.
 """
 
 memo = {}

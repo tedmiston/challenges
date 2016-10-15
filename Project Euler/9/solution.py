@@ -1,7 +1,8 @@
 """
 For the one Pythagorean triple where a + b + c = 1000, find product a * b * c.
 
-No tricks besides using xrange over range for this one. Brute force in ~35 seconds is sufficient for now.
+No tricks besides using xrange over range for this one. Brute force in ~35
+seconds is sufficient for now.
 """
 
 GOAL_SUM = 1000

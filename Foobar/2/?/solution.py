@@ -1,5 +1,6 @@
 import math
 
+
 def answer(x):
     """
     Take input (x) as a list of train carts 2 <= t <= 100, where each cart
@@ -17,7 +18,8 @@ def answer(x):
         if homeless:
             # stuff as many homeless rabbits per bin as possible
             rabbits_per_cart = sum(x) / len(x)
-            bins_lost = float(homeless) / (MAX_RABBITS_PER_CART - rabbits_per_cart)
+            bins_lost = \
+                float(homeless) / (MAX_RABBITS_PER_CART - rabbits_per_cart)
             bins_lost = int(math.ceil(bins_lost))
             return len(x) - bins_lost
         else:
