@@ -44,7 +44,7 @@ def main():
         term += 1
 
     evens = [i for i in result if even(i)]
-    print sum(evens)
+    print(sum(evens))
     assert sum(evens) == 4613732
 
 

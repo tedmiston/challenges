@@ -44,10 +44,10 @@ def is_prime(n):
 
 
 def main():
-    for n in xrange(2, MAX):
+    for n in range(2, MAX):
         if is_prime(n):
             primes.append(n)
-    print sum(primes)
+    print(sum(primes))
 
 
 if __name__ == '__main__':
